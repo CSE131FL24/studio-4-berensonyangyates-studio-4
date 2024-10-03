@@ -23,8 +23,8 @@ public class NorwayMotherOfAllFlags {
 	}
 
 	public static void norway() {
-		StdDraw.setXscale(0, 22);
-		StdDraw.setYscale(0, 16);
+		StdDraw.setXscale(4, 15);
+		StdDraw.setYscale(6, 10);
 		mother();
 	}
 
